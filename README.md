@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm a Senior Software Engineer | Java | Spring Boot | Angular | Azure
 
-<!--
-**subrat-tripathi-pr/subrat-tripathi-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with **8+ years of professional experience** in building scalable backend services and intuitive frontend interfaces. I specialize in **Java ecosystems, Spring Boot/WebFlux**, and modern frontend using **Angular**, with strong exposure to **Azure Cloud**, **DevOps practices**, and **Domain-Driven Design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Key Competencies
+
+**Languages & Frameworks**
+- Java (Spring Boot, Spring WebFlux)
+- Angular (SPA Development)
+- REST & SOAP Web Services
+
+**DevOps & Cloud**
+- Microsoft Azure
+- Harness, GitHub Actions
+- Docker, Kubernetes, Helm
+
+**Databases**
+- Azure Cosmos DB
+- Microsoft SQL Server
+
+**Architecture & Design**
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+- Microservices
+
+---
+
+🔍 *“Striving to build maintainable systems and mentor teams through pragmatic engineering.”*
